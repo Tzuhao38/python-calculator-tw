@@ -9,7 +9,7 @@ build-backend = "setuptools.build_meta"
 name = "pythonmaths"
 dynamic = ["version"]
 authors = [
-  {name = "Author1", email = "author1@somewhere.com"},
+  {name = "Tzuhao38", email = "author1@somewhere.com"},
   {name = "Author2", email = "author2@somewhere.com"},
 ]
 description = "Perform mathematical calculations in Python"
